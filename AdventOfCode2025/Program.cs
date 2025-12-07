@@ -3,6 +3,6 @@
 Console.WriteLine("Input file path:");
 string inputFilePath = Console.ReadLine();
 
-var output = Day01.Part1(inputFilePath);
+var output = Day01.Part2(inputFilePath);
 
 Console.WriteLine(output);
